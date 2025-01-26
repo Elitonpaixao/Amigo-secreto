@@ -5,7 +5,7 @@
 
 
 
-Desafio proposto no modulo iniciante em programação do programa ONE da Oracle com parceria com Alura latam
+Desafio proposto no modulo iniciante em programação
 
 # ⚙️ Funcionalidades do projeto
 
