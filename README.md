@@ -7,7 +7,7 @@
 
 Desafio proposto no modulo iniciante em programação do programa ONE da Oracle com parceria com Alura latam
 
-# ⚙️: Funcionalidades do projeto
+# ⚙️ Funcionalidades do projeto
 
 - `Funcionamento 1`: Adicionar amigos na lista
 - `Funcionamento 2`: Listar amigos
