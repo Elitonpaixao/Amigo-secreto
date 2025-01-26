@@ -9,7 +9,8 @@ Desafio proposto no modulo iniciante em programação do programa ONE da Oracle 
 
 # :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: Adicionar amigos na lista
-- `Funcionalidade 2`: Listar amigos
-- `Funcionalidade 3`: Sortear um Amigo
+- `Funcionamento 1`: Adicionar amigos na lista
+- `Funcionamento 2`: Listar amigos
+- `Funcionamento 3`: Sortear um Amigo
+
 
